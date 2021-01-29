@@ -111,7 +111,7 @@ body::-webkit-scrollbar {
 	margin-top: 20vh;
 }
 #my-name{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Font Awesome 5 Pro';
 	color:white;
 	font-size: 2rem;
 	letter-spacing: 0.1rem;
